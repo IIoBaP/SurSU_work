@@ -1,10 +1,15 @@
+<script>
+    import Navigation from "../components/Navigation.svelte";
 
-<nav>
-    <a href="/">Главная</a>
-    <a href="/con">Контакты</a>
-</nav>
+</script>
+<Navigation />
+
 
 <h1>Index</h1>
+
+
+
+
 
 
 <!-- <div class="index-page">
