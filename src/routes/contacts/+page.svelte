@@ -1,10 +1,20 @@
+<h1>Contacts</h1>
 
-<nav>
-    <a href="/">Главная</a>
-    <a href="/con">Контакты</a>
-</nav>
 
-<h1>Index</h1>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <!-- <div class="index-page">
@@ -23,3 +33,8 @@
         }
     }
 </style> -->
+    
+
+
+
+
