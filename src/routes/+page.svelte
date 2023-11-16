@@ -1,30 +1,17 @@
 <script>
-    import Navigation from "../components/Navigation.svelte";
+	import ToDoapp from "../components/ToDoapp.svelte";
 
 </script>
-<Navigation />
-
-
-<h1>Index</h1>
-
-
-
-
-
-
-<!-- <div class="index-page">
-    <div class="index-page__header">Header</div>
-    <nav class="index-page__navigation">
-        </div>
-    </nav>
+<div class="wrapper">
+    <ToDoapp />
 </div>
 
-<style lang="scss">
-    .index-page {
+
+<style>
+    .wrapper {
+        height: 100vh;
         display: flex;
-        flex-direction: column;
-        height: 100%;
-        &__navigation {
-        }
+        align-items: center;
+        justify-content: center;
     }
-</style> -->
+</style>
