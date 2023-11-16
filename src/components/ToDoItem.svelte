@@ -24,7 +24,7 @@
         align-items: center;
         justify-content: space-between;
         padding: 15px;
-        background: rgb(238, 140, 140);
+        background: rgb(99, 94, 94);
         border-radius: 10px;
     }
     .todo-item__done{
@@ -43,7 +43,7 @@
     .todo-item__btn{
         border: none;
         border-radius: 10px;
-        background-color: rgb(210, 30, 30);
+        background-color: rgb(233, 82, 82);
         padding: 10px;
         min-width: 100px;
 
